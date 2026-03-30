@@ -12,9 +12,11 @@ I want to continue to gain expertise in the area of ML and move onto SoTA method
 - AI-generated media detection
 - Machine learning in general
 
- git add . 
- git commit - m "Thanks for reading"
- git push
+```bash
+git add .
+git commit -m "Thanks for reading"
+git push
+```
 <!---
 Lewbie/Lewbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
