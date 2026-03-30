@@ -4,7 +4,7 @@ I'm a final-year Software Engineering student with a passion for machine learnin
 
 My dissertation involved building and training CNN-based models from scratch in PyTorch to detect AI-generated images. By experimenting with a large range of hyperparameters I developed a strong intuition for how learning rate, optimiser settings, and architecture choices influence model behaviour.
 
-I want to continue to gain expertise in the area of ML and move onto SoTA methodologies as GAN-detection based models are outdated due to the newer diffusion method of image generation.
+I want to continue to gain expertise in the area of ML and move onto SoTA methodologies as GAN-based image generation is becoming outdated due to the newer diffusion method of image generation, to counter this I will need to learn new techniques for ML-based image detection.
 
 ## Interests
 - Computer vision
